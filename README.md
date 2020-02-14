@@ -20,6 +20,6 @@
 
 ![image](https://user-images.githubusercontent.com/25167971/74520103-41ee2b00-4f5a-11ea-97be-0721c54850d4.png)
 
-* 게임 종료 후 얼마나 살아남았는지 
+* 게임 종료 후 얼마나 살아남았는지 보여줌
 
 ![image](https://user-images.githubusercontent.com/25167971/74520154-58948200-4f5a-11ea-9ede-5e93237799e2.png)
